@@ -1,0 +1,2 @@
+# mariomaker_jump_addin
+miiverseで使ってたgoogle chrome用のアドイン
